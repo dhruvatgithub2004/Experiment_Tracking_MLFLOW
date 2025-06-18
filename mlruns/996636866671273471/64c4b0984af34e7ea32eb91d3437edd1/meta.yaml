@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996636866671273471/64c4b0984af34e7ea32eb91d3437edd1/artifacts
+end_time: 1750145887556
+entry_point_name: ''
+experiment_id: '996636866671273471'
+lifecycle_stage: active
+run_id: 64c4b0984af34e7ea32eb91d3437edd1
+run_name: skillful-swan-902
+run_uuid: 64c4b0984af34e7ea32eb91d3437edd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750145887071
+status: 3
+tags: []
+user_id: dkdes
