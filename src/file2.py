@@ -10,7 +10,7 @@ import dagshub
 import os
 from dagshub import dagshub_logger
 
-os.environ['GITHUB_TOKEN'] = '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'
+
 
 
 dagshub.init(repo_owner='dhruvatgithub2004', repo_name='Experiment_Tracking_MLFLOW', mlflow=True)
